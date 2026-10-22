@@ -1,7 +1,7 @@
 # CPE010-Data-Structures-and-Analysis
 | Information | Details |
 |---|---|
-| Name | Kenji Baltazar |
+| Name | Kenji Baltazar | Section | CPE21S1 |
 | Section | CPE21S1 |
 | Program | Bachelor of Science in Computer Engineering |
 | Instructor | Engr. Jimlord Quejado |
