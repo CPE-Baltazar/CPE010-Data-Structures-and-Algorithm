@@ -17,7 +17,7 @@ This course focuses on solving computational problems that manipulate collected 
 ## 📁 Repository Structure
 
 ```text
-CPE 010-CPE21S4 - Data Structures and Algorithms/
+CPE 010- Portfolio/
 ├── 1_PRELIM PERIOD/
 │   ├── Hands-on Activity 1.1 Basic C++ Programming/
 │   ├── Hands-on Activity 2.1 Arrays, Pointers and Dynamic Memory Allocation/
